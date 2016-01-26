@@ -1,0 +1,204 @@
+TEsqueleto DCUTests
+v7
+r1
+
+N/Developer/Applications/XCode_sdk42/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Applications/XCode_sdk42/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004CC11AC600000000000008A5
+t1287723718
+s2213
+
+N/Developer/Applications/XCode_sdk42/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Applications/XCode_sdk42/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Applications/XCode_sdk42/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Applications/XCode_sdk42/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/Esqueleto DCUTests/Esqueleto DCUTests-Prefix.pch
+c000000004EC6E90200000000000000A7
+t1321658626
+s167
+i<UIKit/UIKit.h>
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/Esqueleto DCUTests/Esqueleto_DCUTests.h
+c000000004EC6E902000000000000010C
+t1321658626
+s268
+i<SenTestingKit/SenTestingKit.h>
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/Esqueleto DCUTests/Esqueleto_DCUTests.m
+c000000004EC6E90200000000000001DB
+t1321658626
+s475
+i"Esqueleto_DCUTests.h"
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/Esqueleto DCUTests/en.lproj/InfoPlist.strings
+c000000004EC6E902000000000000002D
+t1321658626
+s45
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug-iphoneos/Esqueleto DCUTests.octest
+t2
+s0
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug-iphoneos/Esqueleto DCUTests.octest.dSYM
+t2
+s0
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug-iphoneos/Esqueleto DCUTests.octest/Esqueleto DCUTests
+t2
+s0
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug-iphoneos/Esqueleto DCUTests.octest/Esqueleto_DCUTests.h
+t2
+s0
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug-iphoneos/Esqueleto DCUTests.octest/Info.plist
+t2
+s0
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug-iphoneos/Esqueleto DCUTests.octest/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Esqueleto DCU.build/Debug-iphoneos/Esqueleto DCUTests.build/Objects-normal/armv6/Esqueleto DCUTests
+t2
+s0
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Esqueleto DCU.build/Debug-iphoneos/Esqueleto DCUTests.build/Objects-normal/armv6/Esqueleto DCUTests.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Esqueleto DCU.build/Debug-iphoneos/Esqueleto DCUTests.build/Objects-normal/armv6/Esqueleto_DCUTests.o
+t2
+s0
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Esqueleto DCU.build/Debug-iphoneos/Esqueleto DCUTests.build/Objects-normal/armv7/Esqueleto DCUTests
+t2
+s0
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Esqueleto DCU.build/Debug-iphoneos/Esqueleto DCUTests.build/Objects-normal/armv7/Esqueleto DCUTests.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Esqueleto DCU.build/Debug-iphoneos/Esqueleto DCUTests.build/Objects-normal/armv7/Esqueleto_DCUTests.o
+t2
+s0
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Esqueleto DCU.build/Debug-iphoneos/Esqueleto DCUTests.build/Script-BADF07C31476DA3300AD494D.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/var/folders/s3/s3EhSHLkHEOI+xQN-mFh0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Esqueleto DCUTests-Prefix-akrjyxirpwrdiqhkbgquyudrswat/Esqueleto DCUTests-Prefix.pch.gch
+t2
+s0
+
+N/var/folders/s3/s3EhSHLkHEOI+xQN-mFh0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Esqueleto DCUTests-Prefix-azeuhpsiuatqmveojnztvuhzwrdr/Esqueleto DCUTests-Prefix.pch.gch
+t2
+s0
+
+N/var/folders/s3/s3EhSHLkHEOI+xQN-mFh0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Esqueleto DCUTests-Prefix-dauatrzqpnskpzfsffjflzascnyn/Esqueleto DCUTests-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/s3/s3EhSHLkHEOI+xQN-mFh0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Esqueleto DCUTests-Prefix-dcdtuhjkrfqzihdvqmyvuwnfwzvt/Esqueleto DCUTests-Prefix.pch.gch
+t2
+s0
+
+N/var/folders/s3/s3EhSHLkHEOI+xQN-mFh0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Esqueleto DCUTests-Prefix-dohwpbgoebglzkdutpwsvfefacch/Esqueleto DCUTests-Prefix.pch.gch
+t2
+s0
+
+N/var/folders/s3/s3EhSHLkHEOI+xQN-mFh0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Esqueleto DCUTests-Prefix-ebwvjgkbetxpexagomgernlxwcak/Esqueleto DCUTests-Prefix.pch.pth
+t2
+s0
+
+NEsqueleto DCUTests/Esqueleto DCUTests-Info.plist
+c000000004EC6E90200000000000002B3
+t1321658626
+s691
+
+CCompileC "build/Esqueleto DCU.build/Debug-iphoneos/Esqueleto DCUTests.build/Objects-normal/armv6/Esqueleto_DCUTests.o" "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/Esqueleto DCUTests/Esqueleto_DCUTests.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Esqueleto DCU.build/Debug-iphoneos/Esqueleto DCUTests.build/Objects-normal/armv6/Esqueleto_DCUTests.o" "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/Esqueleto DCUTests/Esqueleto_DCUTests.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "build/Esqueleto DCU.build/Debug-iphoneos/Esqueleto DCUTests.build/Objects-normal/armv6/Esqueleto_DCUTests.o" "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/Esqueleto DCUTests/Esqueleto_DCUTests.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/Esqueleto DCU.build/Debug-iphoneos/Esqueleto DCUTests.build/Objects-normal/armv7/Esqueleto_DCUTests.o" "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/Esqueleto DCUTests/Esqueleto_DCUTests.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Esqueleto DCU.build/Debug-iphoneos/Esqueleto DCUTests.build/Objects-normal/armv7/Esqueleto_DCUTests.o" "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/Esqueleto DCUTests/Esqueleto_DCUTests.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "build/Esqueleto DCU.build/Debug-iphoneos/Esqueleto DCUTests.build/Objects-normal/armv7/Esqueleto_DCUTests.o" "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/Esqueleto DCUTests/Esqueleto_DCUTests.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCopyStringsFile "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug-iphoneos/Esqueleto DCUTests.octest/en.lproj/InfoPlist.strings" "Esqueleto DCUTests/en.lproj/InfoPlist.strings"
+r0
+
+CCpResource "build/Debug-iphoneos/Esqueleto DCUTests.octest/Esqueleto_DCUTests.h" "Esqueleto DCUTests/Esqueleto_DCUTests.h"
+r0
+
+CCreateUniversalBinary "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug-iphoneos/Esqueleto DCUTests.octest/Esqueleto DCUTests" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug-iphoneos/Esqueleto DCUTests.octest.dSYM" "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug-iphoneos/Esqueleto DCUTests.octest/Esqueleto DCUTests"
+r0
+
+CLd "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Esqueleto DCU.build/Debug-iphoneos/Esqueleto DCUTests.build/Objects-normal/armv6/Esqueleto DCUTests" normal armv6
+r0
+
+CLd "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Esqueleto DCU.build/Debug-iphoneos/Esqueleto DCUTests.build/Objects-normal/armv7/Esqueleto DCUTests" normal armv7
+r0
+
+CPhaseScriptExecution "Run Script" "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Esqueleto DCU.build/Debug-iphoneos/Esqueleto DCUTests.build/Script-BADF07C31476DA3300AD494D.sh"
+r0
+
+CProcessInfoPlistFile "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug-iphoneos/Esqueleto DCUTests.octest/Info.plist" "Esqueleto DCUTests/Esqueleto DCUTests-Info.plist"
+r0
+
+CProcessPCH "/var/folders/s3/s3EhSHLkHEOI+xQN-mFh0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Esqueleto DCUTests-Prefix-akrjyxirpwrdiqhkbgquyudrswat/Esqueleto DCUTests-Prefix.pch.gch" "Esqueleto DCUTests/Esqueleto DCUTests-Prefix.pch" normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CProcessPCH "/var/folders/s3/s3EhSHLkHEOI+xQN-mFh0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Esqueleto DCUTests-Prefix-azeuhpsiuatqmveojnztvuhzwrdr/Esqueleto DCUTests-Prefix.pch.gch" "Esqueleto DCUTests/Esqueleto DCUTests-Prefix.pch" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH "/var/folders/s3/s3EhSHLkHEOI+xQN-mFh0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Esqueleto DCUTests-Prefix-dauatrzqpnskpzfsffjflzascnyn/Esqueleto DCUTests-Prefix.pch.pth" "Esqueleto DCUTests/Esqueleto DCUTests-Prefix.pch" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH "/var/folders/s3/s3EhSHLkHEOI+xQN-mFh0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Esqueleto DCUTests-Prefix-dcdtuhjkrfqzihdvqmyvuwnfwzvt/Esqueleto DCUTests-Prefix.pch.gch" "Esqueleto DCUTests/Esqueleto DCUTests-Prefix.pch" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH "/var/folders/s3/s3EhSHLkHEOI+xQN-mFh0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Esqueleto DCUTests-Prefix-dohwpbgoebglzkdutpwsvfefacch/Esqueleto DCUTests-Prefix.pch.gch" "Esqueleto DCUTests/Esqueleto DCUTests-Prefix.pch" normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CProcessPCH "/var/folders/s3/s3EhSHLkHEOI+xQN-mFh0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Esqueleto DCUTests-Prefix-ebwvjgkbetxpexagomgernlxwcak/Esqueleto DCUTests-Prefix.pch.pth" "Esqueleto DCUTests/Esqueleto DCUTests-Prefix.pch" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CTouch "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug-iphoneos/Esqueleto DCUTests.octest"
+r0
+

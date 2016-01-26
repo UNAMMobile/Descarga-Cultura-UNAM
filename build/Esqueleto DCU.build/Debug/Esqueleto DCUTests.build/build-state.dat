@@ -1,0 +1,55 @@
+TEsqueleto DCUTests
+v7
+r1
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/Esqueleto DCUTests/Esqueleto_DCUTests.h
+c000000004EC6E902000000000000010C
+t1321658626
+s268
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/Esqueleto DCUTests/en.lproj/InfoPlist.strings
+c000000004EC6E902000000000000002D
+t1321658626
+s45
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug/Esqueleto DCUTests.octest
+t2
+s0
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug/Esqueleto DCUTests.octest/Contents/Info.plist
+t2
+s0
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug/Esqueleto DCUTests.octest/Contents/Resources/Esqueleto_DCUTests.h
+t2
+s0
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug/Esqueleto DCUTests.octest/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Esqueleto DCU.build/Debug/Esqueleto DCUTests.build/Script-BADF07C31476DA3300AD494D.sh
+c00000000000000000000000000000000
+t2
+s0
+
+NEsqueleto DCUTests/Esqueleto DCUTests-Info.plist
+c000000004EC6E90200000000000002B3
+t1321658626
+s691
+
+CCopyStringsFile "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug/Esqueleto DCUTests.octest/Contents/Resources/en.lproj/InfoPlist.strings" "Esqueleto DCUTests/en.lproj/InfoPlist.strings"
+r0
+
+CCpResource "build/Debug/Esqueleto DCUTests.octest/Contents/Resources/Esqueleto_DCUTests.h" "Esqueleto DCUTests/Esqueleto_DCUTests.h"
+r0
+
+CPhaseScriptExecution "Run Script" "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Esqueleto DCU.build/Debug/Esqueleto DCUTests.build/Script-BADF07C31476DA3300AD494D.sh"
+r0
+
+CProcessInfoPlistFile "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug/Esqueleto DCUTests.octest/Contents/Info.plist" "Esqueleto DCUTests/Esqueleto DCUTests-Info.plist"
+r0
+
+CTouch "/Users/ladai/Desktop/EDCURES/Esqueleto DCU/build/Debug/Esqueleto DCUTests.octest"
+r0
+

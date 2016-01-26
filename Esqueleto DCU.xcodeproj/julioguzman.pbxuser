@@ -1,0 +1,91 @@
+// !$*UTF8*$!
+{
+	BA93964C1490048100A1F543 /* Esqueleto DCU */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Esqueleto DCU";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	BA9396641490048800A1F543 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	BA9396651490048800A1F543 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	BADF07981476DA3000AD494D /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = BA93964C1490048100A1F543 /* Esqueleto DCU */;
+		activeTarget = BADF07A01476DA3100AD494D /* Esqueleto DCU */;
+		codeSenseManager = BA9396651490048800A1F543 /* Code sense */;
+		executables = (
+			BA93964C1490048100A1F543 /* Esqueleto DCU */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 356031754;
+			PBXWorkspaceStateSaveDate = 356031754;
+		};
+		sourceControlManager = BA9396641490048800A1F543 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	BADF07A01476DA3100AD494D /* Esqueleto DCU */ = {
+		activeExec = 0;
+		executables = (
+			BA93964C1490048100A1F543 /* Esqueleto DCU */,
+		);
+	};
+	BADF07C41476DA3300AD494D /* Esqueleto DCUTests */ = {
+		activeExec = 0;
+	};
+}
